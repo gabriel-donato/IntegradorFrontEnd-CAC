@@ -60,7 +60,7 @@ border-style: none;
     position: relative;
   }
 .img_honolulu{
-    background-image: url("https://github.com/pgdonato/IntegradorFrontEnd-CAC/blob/master/imagenes/honolulu.jpgg");
+    background-image: url("../imagenes/honolulu.jpg");
     height: 700px;
     background-position: center;
     background-repeat: no-repeat;
