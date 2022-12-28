@@ -52,7 +52,7 @@ border-style: none;
 }
 
 .img_ba1{
-    background-image: url("/imagenes_integrador_front/ba1.jpg");
+    background-image: url("/imagenes/ba1.jpg");
     height: 700px;
     background-position: center;
     background-repeat: no-repeat;
@@ -60,7 +60,7 @@ border-style: none;
     position: relative;
   }
 .img_honolulu{
-    background-image: url("/imagenes_integrador_front/honolulu.jpg");
+    background-image: url("/imagenes/honolulu.jpg");
     height: 700px;
     background-position: center;
     background-repeat: no-repeat;
