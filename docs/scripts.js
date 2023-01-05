@@ -1,3 +1,3 @@
 document.getElementById("tickets").onclick =  function(){
-    location.href="https://pgdonato.github.io/IntegradorFrontEnd-CAC/tickets.html";
+    location.href=2https://pgdonato.github.io/IntegradorFrontEnd-CAC/tickets.html";
 };
