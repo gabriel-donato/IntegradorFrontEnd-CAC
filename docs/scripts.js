@@ -3,7 +3,7 @@ const valorTicket = 200;
 let total=0
 
 function calcTotal() {
-    console.log("total");
+    console.log(total);
     let total=document.getElementById("total").value
     let cant=document.getElementById("cantidad").value
     let cat=document.getElementById("categoria").value
